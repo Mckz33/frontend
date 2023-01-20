@@ -1,0 +1,17 @@
+form {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    max-width: 25rem;
+}
+button {
+    margin: 20px 15px 10px 10px;
+    max-width: 25rem;
+}
+.title-form {
+    margin-left: 8rem;
+}
+.card {
+   max-width: 25rem;
+}
+
